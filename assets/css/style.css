@@ -75,8 +75,11 @@ section {
   background-image: url("../images/hero-bg.jpg");
   height: 600px;
   background-size: cover;
-  background-position: center;
+  background-position: bottom;
   position: relative;
+  height: auto;
+  text-align: center;
+  margin-bottom: 40px;
 }
 
 .hero-form {
@@ -285,3 +288,6 @@ section {
 }
 
 /* REACH OUT STYLES END */
+
+
+
